@@ -1,5 +1,5 @@
 
-
+# a^n div and conquer
 def divNconq(a, n):
     if n==0:
         return 1
